@@ -1,0 +1,19 @@
+server:
+  port: 8081
+
+
+spring:
+  #使用druid连接池来连接数据库
+  datasource:
+    #数据库连接路径
+    url: jdbc:mysql://101.42.13.112:3306/note?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
+    #数据库驱动类
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    #数据库用户名
+    username: root
+    #数据库密码
+    password: sql10086
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
