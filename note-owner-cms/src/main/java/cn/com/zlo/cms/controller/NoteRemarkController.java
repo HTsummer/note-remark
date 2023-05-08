@@ -7,7 +7,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * Copyright (C), 2023, 北京合商云汇科技有限公司
+ * Copyright (C), 2023
  * FileName: NoteRemarkController
  * Author: ZL
  * Date: 2023/1/3 17:25:37

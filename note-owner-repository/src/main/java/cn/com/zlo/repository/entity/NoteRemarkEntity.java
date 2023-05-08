@@ -10,7 +10,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * Copyright (C), 2023, 北京合商云汇科技有限公司
+ * Copyright (C), 2023
  * FileName: NoteRemarkEntity
  * Author: ZL
  * Date: 2023/1/3 16:28:33

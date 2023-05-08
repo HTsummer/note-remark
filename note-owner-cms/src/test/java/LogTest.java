@@ -2,7 +2,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 
 /**
- * Copyright (C), 2023, 北京合商云汇科技有限公司
+ * Copyright (C), 2023
  * FileName: LogTest
  * Author: ZL
  * Date: 2023/1/4 10:07:55

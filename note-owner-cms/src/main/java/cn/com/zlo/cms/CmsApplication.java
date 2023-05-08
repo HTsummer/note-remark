@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 /**
- * Copyright (C), 2023, 北京合商云汇科技有限公司
+ * Copyright (C), 2023
  * FileName: CmsApplication
  * Author: ZL
  * Date: 2023/1/3 14:05:28
